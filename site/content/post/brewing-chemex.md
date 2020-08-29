@@ -1,13 +1,17 @@
 ---
 title: Test Post
 date: 2020-08-29T15:25:49.186Z
-description: Testing the intro blurb
+description: |
+  Testing the intro blurb
 image: img/types-of-pediatrician-specialties.jpg
 ---
-
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+
+<https://www.youtube.com/watch?v=p6h-rYSVX90>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6h-rYSVX90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The little secrets of Chemex brewing
 
